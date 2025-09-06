@@ -2,12 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/hugo-simple-column-demo-site/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>https://example.org/hugo-simple-column-demo-site/elements/</loc>
+    <loc>https://example.org/elements/</loc>
   </url><url>
-    <loc>https://example.org/hugo-simple-column-demo-site/</loc>
+    <loc>https://example.org/</loc>
   </url><url>
-    <loc>https://example.org/hugo-simple-column-demo-site/tags/</loc>
+    <loc>https://example.org/posts/post1/</loc>
+  </url><url>
+    <loc>https://example.org/posts/post2/</loc>
+  </url><url>
+    <loc>https://example.org/posts/post3/</loc>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
